@@ -15,20 +15,17 @@
 
 ## 👩‍💻 About Me
 
-```python
-class DeviPranavi:
-    def __init__(self):
-        self.name       = "Devi Pranavi Janjanam"
-        self.role       = "CS Engineering Student @ RCEE, Eluru"
-        self.batch      = "2023 – 2027"
-        self.cgpa       = 8.87
-        self.languages  = ["Telugu", "English", "Hindi"]
-        self.interests  = ["Full Stack Development", "AI & ML", "IoT", "Digital Marketing"]
-        self.currently  = "Exploring AI-powered solutions & digital technologies"
+Hi! I'm **Devi Pranavi Janjanam**, a passionate Computer Science Engineering student who loves building AI-powered systems, IoT solutions, and full-stack applications that make a real-world difference! 🚀
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
-```
+| | |
+|---|---|
+| 🎓 **Degree** | B.Tech CSE @ RCEE, Eluru |
+| 📅 **Batch** | 2023 – 2027 |
+| ⭐ **CGPA** | 8.87 |
+| 💻 **Interests** | Full Stack, AI & ML, IoT, Digital Marketing |
+| 📍 **Location** | Eluru, Andhra Pradesh, India |
+| 🗣️ **Languages** | Telugu, English, Hindi |
+| 🚀 **Currently** | Exploring AI-powered solutions & digital technologies |
 
 ---
 
