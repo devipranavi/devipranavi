@@ -22,7 +22,7 @@ class DeviPranavi:
         self.role       = "CS Engineering Student @ RCEE, Eluru"
         self.batch      = "2023 – 2027"
         self.cgpa       = 8.87
-        self.languages  = ["Telugu (Native)", "English (Proficient)", "Hindi (Basic)"]
+        self.languages  = ["Telugu", "English", "Hindi"]
         self.interests  = ["Full Stack Development", "AI & ML", "IoT", "Digital Marketing"]
         self.currently  = "Exploring AI-powered solutions & digital technologies"
 
