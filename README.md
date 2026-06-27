@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Devi%20Pranavi%20Janjanam&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineering%20%7C%20Full%20Stack%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" alt="header"/>
 
 <!-- Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devi-pranavi-janjanam839772354)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/devi-pranavi-janjanam839772354](https://www.linkedin.com/in/devi-pranavi-janjanam-7b9773415))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devipranavi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devipranavijanjanam@gmail.com)
 ![Location](https://img.shields.io/badge/📍_Eluru,_Andhra_Pradesh-India-orange?style=for-the-badge)
