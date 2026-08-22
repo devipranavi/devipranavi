@@ -64,10 +64,10 @@ Hi! I'm **Devi Pranavi Janjanam**, a passionate Computer Science Engineering stu
       <p><code>AI</code> <code>Self-Healing Systems</code> <code>Automation</code></p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/devipranavi/smartlender_submission">⛑️ IntelliGuard Helmet — IoT Safety System</a></h3>
-      <p>A smart safety helmet for <strong>workers in hazardous environments</strong> (e.g., construction sites). Monitors surroundings using real-time sensors and GPS for proactive safety alerts.</p>
-      <p><code>IoT</code> <code>GPS</code> <code>Sensor Technology</code></p>
-    </td>
+  <h3><a href="https://github.com/devipranavi/smartlender_submission">💰 SmartLender — AI Loan Prediction System</a></h3>
+  <p>An AI-powered system that <strong>predicts loan eligibility and risk</strong> for applicants, helping lenders make faster, data-driven approval decisions.</p>
+  <p><code>AI</code> <code>Machine Learning</code> <code>Finance</code></p>
+</td>
   </tr>
   <tr>
     <td width="50%">
