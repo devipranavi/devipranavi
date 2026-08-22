@@ -21,7 +21,7 @@ Hi! I'm **Devi Pranavi Janjanam**, a passionate Computer Science Engineering stu
 |---|---|
 | 🎓 **Degree** | B.Tech CSE @ RCEE, Eluru |
 | 📅 **Batch** | 2023 – 2027 |
-| ⭐ **CGPA** | 8.87 |
+| ⭐ **CGPA** | 8.91 |
 | 💻 **Interests** | Full Stack, AI & ML, IoT, Digital Marketing |
 | 📍 **Location** | Eluru, Andhra Pradesh, India |
 | 🗣️ **Languages** | Telugu, English, Hindi |
@@ -54,6 +54,8 @@ Hi! I'm **Devi Pranavi Janjanam**, a passionate Computer Science Engineering stu
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <table>
   <tr>
     <td width="50%">
@@ -62,25 +64,24 @@ Hi! I'm **Devi Pranavi Janjanam**, a passionate Computer Science Engineering stu
       <p><code>AI</code> <code>Self-Healing Systems</code> <code>Automation</code></p>
     </td>
     <td width="50%">
-      <h3>⛑️ IntelliGuard Helmet — IoT Safety System</h3>
+      <h3><a href="https://github.com/devipranavi/smartlender_submission">⛑️ IntelliGuard Helmet — IoT Safety System</a></h3>
       <p>A smart safety helmet for <strong>workers in hazardous environments</strong> (e.g., construction sites). Monitors surroundings using real-time sensors and GPS for proactive safety alerts.</p>
       <p><code>IoT</code> <code>GPS</code> <code>Sensor Technology</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>📋 Triaging System</h3>
+      <h3><a href="https://github.com/devipranavi/Triaging-agent">📋 Triaging System</a></h3>
       <p>A <strong>task prioritization system</strong> based on urgency and importance, designed to improve response time and streamline decision-making workflows.</p>
       <p><code>Python</code> <code>Algorithms</code> <code>Decision Systems</code></p>
     </td>
     <td width="50%">
-      <h3>📦 Supply Chain Management System</h3>
+      <h3><a href="https://github.com/devipranavi/Supply-chain-management">📦 Supply Chain Management System</a></h3>
       <p>A supply chain model that <strong>optimizes inventory flow</strong> and reduces operational delays, helping retailers prevent out-of-stock situations with smart stock management.</p>
       <p><code>SQL</code> <code>Data Analysis</code> <code>Optimization</code></p>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 💼 Experience
